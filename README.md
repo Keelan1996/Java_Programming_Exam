@@ -26,4 +26,4 @@
 <br>
 ~ Composition
 <br>
-~ extending other classes
+~ extending classes
